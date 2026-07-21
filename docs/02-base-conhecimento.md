@@ -152,6 +152,6 @@ PRODUTOS DISPONÍVEIS PARA EXPLICAR:
 - Tesouro Selic (risco baixo)
 - CDB Liquidez Diária (risco baixo)
 - LCI/LCA (risco baixo)
-- Fundo Imobiliário (risco médio)
+- Fundo Multimercado (risco médio)
 - Fundo de Ações (risco alto)
 ```
